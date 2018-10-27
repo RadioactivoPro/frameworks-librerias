@@ -1,0 +1,135 @@
+.dark-primary-color {
+  background-color: #FBC02D;
+}
+
+.light-primary-color {
+  background-color: #B3E5FC;
+}
+
+.light-primary-color1 {
+  background-color: rgba(225,190,231,0.5);
+}
+
+.primary-color {
+  background-color: #DCEDC8;
+}
+
+.primary-color-transp {
+  background-color: rgba(220,237,200,0.8)
+}
+
+.alert-color {
+  color: #e01d3c;
+}
+
+.fondo-transp {
+  background-color: rgba(96,125,139,0.6);
+}
+
+.box {
+  margin: 0.2em 0;
+  border: 1px solid white;
+}
+
+.box--small {
+  min-height: 180px;
+}
+
+.box--medium {
+  height: 60%;
+  border: 8px solid rgba(96,125,139,0.6);
+  background-clip: padding-box;
+  border-radius: 13px;
+}
+
+.box--large {
+  min-height: 400px;
+  border: 8px solid rgba(96,125,139,0.6);
+  background-clip: padding-box;
+  border-radius: 13px;
+}
+
+body {
+  background-image: url(../img/fondo1.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  width: 100vw;
+  height: 100vh;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+}
+
+h6 {
+  font-family: 'Charmonman', cursive;
+  color: rgb(246, 246, 246);
+  margin-left: 5px;
+}
+
+.cabecera {
+  border-bottom: 1px solid rgb(246, 246, 246);
+}
+
+.logo {
+  border-right: 1px solid rgb(246, 246, 246);
+  padding: 10px 15px;
+  width: 200px;
+}
+
+.busqueda {
+  padding-top: 10px;
+}
+
+.icono-busqueda {
+  font-size: 25px;
+  color: rgb(246, 246, 246);
+}
+
+.cont-icono {
+  height: 40px;
+  background-color: #FBC02D;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+
+.banner {
+  padding: 5px;
+}
+
+a {
+  color: #e01d3c;
+}
+
+.button {
+  margin: 0 0 0.2rem;
+}
+
+h5 {
+  font-family: 'Roboto', sans-serif;
+}
+
+h5 small {
+  color: #e01d3c;
+  font-family: 'Dancing Script', cursive;
+}
+
+.boton-env {
+    margin-top: -10px;
+}
+
+.text-com {
+  padding-left: 40px;
+  padding-top: 10px;
+}
+
+.callout {
+  background-color: rgba(255, 255, 255, 0.0);
+  border-radius: 5px;
+  margin: 0 0 0.5rem;
+}
+
+p{
+  font-family: 'Lato', sans-serif;
+}

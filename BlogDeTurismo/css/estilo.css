@@ -1,0 +1,133 @@
+body {
+  background-image: url(../img/fondo.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  width: 100vw;
+  height: 100vh;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+}
+
+h4, h5 {
+  color: #e57373;
+}
+
+h6 {
+  float: right;
+  padding-top: 5em;
+  padding-right: 35px;
+  font-size: 1.7em;
+  color: white;
+  font-family: 'Caveat', cursive;
+}
+
+.blue-lighten-5 {
+  background-color: rgba(227,242,253,0.5)
+}
+
+.barra-superior .row {
+  margin-bottom: 0;
+}
+
+.logo{
+  width: 50%;;
+  margin-top: 0.3rem;
+  padding-left: 10px;
+}
+
+.contenedor-botones {
+  min-height: 200px;
+}
+
+.botones {
+  float: right;
+  margin-top: 20px;
+}
+
+.ico-red-soc {
+  width: 50px;
+  margin: 5px;
+}
+
+.cont-redes {
+  margin-left: 10px;
+}
+
+.contenedor-imagen {
+  width: 100%;
+  padding-top: 4px;
+}
+
+.contenedor-imagen-2 {
+  width: 97%;
+  padding-top: 4px;
+  padding-left: 10px;
+}
+
+.imagen-sec {
+  float: left;
+  margin: 9px 7px 0 9px;
+  margin-left: ;
+  width: 230px;
+  height: 230px;
+}
+
+.tit-1 {
+  padding-top: 5px;
+}
+
+.texto-descrit {
+  font-size: 1.2em;
+  margin-left: 10px;
+  margin-right: 9px;
+  text-align: justify;
+}
+
+.columna-conten {
+  background-color: white;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.columna-conten1 {
+  padding-bottom: 10px;
+  padding-right: 5px;
+}
+
+.contened-perfil {
+  margin-top: 22px;
+  border-radius: 3px;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.imag-perfil {
+  width: 170px;
+  padding-top: 15px;
+  margin-left: 63px;
+}
+
+.box-1 {
+  padding: 7px;
+}
+
+.box-form {
+  margin-top: 5px;
+}
+
+.cont-form {
+  min-height: 390px;
+}
+
+.cont-form-1 {
+  padding: 7px 0px 8px 13px;
+}
+
+.boton-send {
+  float: right;
+  padding-right: 3em;
+  padding-bottom: 2em;
+}
